@@ -15,20 +15,6 @@ This project is a modern, lightweight, and user-friendly **To-Do List App** buil
 - ⚡ Add tasks with the Enter key
 - 🎨 Dark-themed, responsive UI with stylish interactions
 
----
-
-## 📸 Filter Icons
-
-The filter section includes visual icons to make filtering more intuitive and visually appealing:
-
-| All | Active | Completed |
-|-----|--------|-----------|
-| ![All Filter](./assets/filter-all.png) | ![Active Filter](./assets/filter-active.png) | ![Completed Filter](./assets/filter-completed.png) |
-
-> Make sure your images are located in the `assets/` folder.
-
----
-
 ## 📁 File Structure
 To-do-List/ ├── index.html ├── style.css ├── script.js├── ToDoListPosition1.png ├── ToDoListPosition2.png └── ToDoListPosition3.png
 
