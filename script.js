@@ -107,9 +107,12 @@ function loadTasks() {
   });
 }
 
-// Filter Tasks
 function filterTasks(event) {
   const filter = event.target.dataset.filter;
+
+  filterBtns.forEach(btn => btn.classList.remove('active-filter'));
+  event.target.classList.add('active-filter');
+
   [...taskList.children].forEach(task => {
     switch (filter) {
       case 'all':
@@ -124,6 +127,7 @@ function filterTasks(event) {
     }
   });
 }
+
 // Add Task with Enter Key (Fixed: keydown instead of keypress)
 taskInput.addEventListener('keydown', function(event) {
   if (event.key === 'Enter') {
