@@ -16,7 +16,7 @@ This project is a modern, lightweight, and user-friendly **To-Do List App** buil
 - 🎨 Dark-themed, responsive UI with stylish interactions
 
 ## 📁 File Structure
-To-do-List/ ├── index.html ├── style.css ├── script.js├── ToDoListPosition1.png ├── ToDoListPosition2.png └── ToDoListPosition3.png
+To-do-List/ ├── index.html ├── style.css ├── script.js├── ScreenShots/ ├──ToDoListPosition1.png ├── ToDoListPosition2.png └── ToDoListPosition3.png
 
 
 ## ⚙️ Getting Started
@@ -37,7 +37,7 @@ To-do-List/ ├── index.html ├── style.css ├── script.js├─�
 
 Here are some screenshots of the To-Do List app in different states:
 
-| ![Position 1](./ToDoListPosition1.png) | ![Position 2](./ToDoListPosition2.png) | ![Position 3](./ToDoListPosition3.png) |
+| ![Position 1](.ScreenShots/ToDoListPosition1.png) | ![Position 2](.ScreenShots/ToDoListPosition2.png) | ![Position 3](.ScreenShots/ToDoListPosition3.png) |
 |--------------------------------------|--------------------------------------|--------------------------------------|
 
 
