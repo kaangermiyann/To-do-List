@@ -37,7 +37,7 @@ To-do-List/ ├── index.html ├── style.css ├── script.js├─�
 
 Here are some screenshots of the To-Do List app in different states:
 
-| ![Position 1](.ScreenShots/ToDoListPosition1.png) | ![Position 2](.ScreenShots/ToDoListPosition2.png) | ![Position 3](.ScreenShots/ToDoListPosition3.png) |
+| ![Position 1](ScreenShots/ToDoListPosition1.png) | ![Position 2](ScreenShots/ToDoListPosition2.png) | ![Position 3](ScreenShots/ToDoListPosition3.png) |
 |--------------------------------------|--------------------------------------|--------------------------------------|
 
 
